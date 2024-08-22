@@ -1,4 +1,9 @@
-## Hi there 👋
+## ¡Hola! 👋
+Soy un programador junior de Lima, Perú 🇵🇪, actualmente cursando el 5to ciclo de Sistemas en Cibertec. Tengo experiencia en Java ☕, JavaScript 🌐, un poco de Python 🐍, SQL, MongoDB 🍃, y C# 💻. Me apasiona aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional.
+
+En mi tiempo libre, disfruto haciendo arte, lo que me ayuda a mantener la creatividad tanto dentro como fuera del código.
+
+¡Estoy emocionado por seguir aprendiendo y colaborar en proyectos interesantes! 
 
 <!--
 **ianbazan/ianbazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
