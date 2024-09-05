@@ -6,7 +6,7 @@ Soy un programador junior de Lima, Perú 🇵🇪, actualmente cursando el 5to c
 En mi tiempo libre, disfruto haciendo arte, lo que me ayuda a mantener la creatividad tanto dentro como fuera del código.
 
 ¡Estoy emocionado por seguir aprendiendo y colaborar en proyectos interesantes!
- 
+
 ### Skills
 
 <p align="left">
@@ -24,7 +24,5 @@ En mi tiempo libre, disfruto haciendo arte, lo que me ayuda a mantener la creati
 <a href="http://www.github.com/ianbazan"><img src="https://github-readme-stats.vercel.app/api?username=ianbazan&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="ianbazan's GitHub stats" /></a>
 
 <a href="http://www.github.com/ianbazan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ianbazan&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ianbazan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ianbazan&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ianbazan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbazan&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
