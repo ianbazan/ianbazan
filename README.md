@@ -1,5 +1,5 @@
 ## ¡Hola! 👋
-Soy un programador junior de Lima, Perú 🇵🇪, actualmente cursando el 5to ciclo de Sistemas en Cibertec. Tengo experiencia en Java ☕, JavaScript 🌐, un poco de Python 🐍, SQL, MongoDB 🍃, y C# 💻. Me apasiona aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional.
+Soy un programador junior de Lima, Perú 🇵🇪, actualmente cursando el 5to ciclo de Sistemas en Cibertec. Tengo experiencia en Java ☕, JavaScript, TypeScript🌐, un poco de Python 🐍, SQL, MongoDB 🍃, y C# 💻. Me apasiona aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional.
 
 En mi tiempo libre, disfruto haciendo arte, lo que me ayuda a mantener la creatividad tanto dentro como fuera del código.
 
